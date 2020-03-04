@@ -1,3 +1,8 @@
 language: c
+notification:
+    email:
+        on_success: always
+        on_failure: always
+
 script: gcc hello.c
 

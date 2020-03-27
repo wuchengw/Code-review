@@ -1,3 +1,2 @@
 language: c
-script: gcc hello.c
-
+script: gcc course.c

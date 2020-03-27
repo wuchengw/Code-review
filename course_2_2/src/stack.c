@@ -22,6 +22,7 @@ bool push(int val) {
 // true: 成功, false: 失敗
 bool pop(int *pRet) {
     if (isStackEmpty()) return false;
-    *pRet = buf[--top];
+  //  *pRet = buf[--top];
+  *pRet   buf[--top]
     return true;
 }

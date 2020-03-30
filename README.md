@@ -27,4 +27,4 @@
 
 经过在gitee码云部署travis CI，在上传代码时候触发机制不能实现（经过与码云的后端运维客服沟通，原因时他们对travis CI的触发模式还没有支持），需要经过gitlab配置再触发，简单说明就是代码放在gitee，触发机制部署再gitlab<---->gitee联动，gitee运行持续集成系统；这样还不如直接gitlab集成（这又回到github一样吗，gitlab也是国外的，国内注册要耍小手段才行）；现在试下jenkins + gitee 
 
-这个测试CI仓库部分已经可以可以与码云（gitee）同步；
+这个测试CI仓库部分已经可以可以与码云（gitee）同步；码云链接：https://gitee.com/strong_code/helloworld

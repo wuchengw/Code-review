@@ -82,11 +82,7 @@ Doxygen 是一个程序的文件产生工具，可将程序中的特定批注转
  };
 ```
 
-生成文档效果
 
-![img](https:////upload-images.jianshu.io/upload_images/1730134-509ca5cdaff70836.png?imageMogr2/auto-orient/strip|imageView2/2/w/796/format/webp)
-
-![img](https:////upload-images.jianshu.io/upload_images/1730134-7e1a0d5c65440584.png?imageMogr2/auto-orient/strip|imageView2/2/w/809/format/webp)
 
 > 命名空间、结构体、联合体、枚举定义与类定义注释方式一致。
 
